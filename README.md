@@ -1,16 +1,38 @@
-### Hi there 👋
+## My knowledge
 
-<!--
-**MHunterG/MHunterG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### High
 
-Here are some ideas to get you started:
+**Python**
++ Django 
++ Flask
++ Ctypes
++ Discord.py
++ Asyncio
++ Other lightweight libraries (e.g. Requests, beautifulsoup4, setuptools)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Java**
++ JavaFX
+ 
+### Medium
+
+**JavaScript**
++ Mostly pure JS 
++ JQuery
++ Electron (low)
+
+**С/C++**
++ g++ and make
++ Libmicrohttpd
++ Libcurl
++ Unreal Engine (low)
+  
+**Golang**
++ Mostly changed the finished libs
++ Modified GO library for compilation to shared library (.dll and .so) and use it in Python Ctypes (CGO)
+
+### low
+
+**C#**
++ Unity
++ .NET Framework
++ WPF
